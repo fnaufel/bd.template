@@ -1,6 +1,8 @@
 --- 
 # See https://github.com/fnaufel/bd.template for more information.
 
+knit: "bookdown::render_book"
+
 title: "???????"
 description: "???????"
 author: "Fernando Náufel"
