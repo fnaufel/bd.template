@@ -1,0 +1,4 @@
+name: bd.template
+description: >
+   Simple bookdown template, dependant on fnaufel/bd.format.html and fnaufel/bd.format.pdf
+create_dir: FALSE

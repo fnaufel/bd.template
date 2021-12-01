@@ -1,0 +1,23 @@
+--- 
+# See https://github.com/fnaufel/bd.template for more information.
+
+title: "???????"
+description: "???????"
+author: "Fernando Náufel"
+date: "(versão de `r format(Sys.Date(), '%d/%m/%Y')`)"
+lang: 'pt-br'
+
+cover-image: images/?????
+
+documentclass: "report"
+classoption: '11pt'
+geometry: 'margin=1in'
+bibliography: []
+biblio-style: apalike
+link-citations: yes
+
+---
+
+# Apresentação {- #apresentacao}
+
+
